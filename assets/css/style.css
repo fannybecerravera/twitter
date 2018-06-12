@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(33, 179, 228);
+    color: white;
+    text-align: center
+}
+body{
+    background-color: rgb(193, 250, 222);
+}
+#div{
+    width: 25em;
+    height: 7em;
+    background-color: white;
+}
+h2{
+    color:blue;
+}
+#mensaje{
+    width: 25em;
+	height: 7em;
+    resize: none;
+   
+    text-align: center;
+}
